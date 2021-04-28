@@ -1,1 +1,1 @@
-# SFedU_DOKJO_SiteSection
+# SFEDU Department of Residence Affairs and Accommodation website section
